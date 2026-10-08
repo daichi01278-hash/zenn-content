@@ -3,7 +3,7 @@ title: "HyperFrames入門：HTMLテンプレート1枚とJSONでMP4動画を一�
 emoji: "🎬"
 type: "tech"
 topics: ["hyperframes", "gsap", "ffmpeg", "nodejs", "動画生成"]
-published: false
+published: true
 ---
 
 ## 概要（Overview）
