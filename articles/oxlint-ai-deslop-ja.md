@@ -3,7 +3,7 @@ title: "ai-deslop入門：AIが書いたTypeScriptの「雑さ」をOxlintで機
 emoji: "🧹"
 type: "tech"
 topics: ["oxlint", "typescript", "lint", "ai", "claudecode"]
-published: false
+published: true
 ---
 
 ## 概要（Overview）
