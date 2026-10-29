@@ -1,5 +1,5 @@
 ---
-title: "Atlassian の人気アプリ上位2,500件のうち551件がまだ Connect だった: サポート終了前の Marketplace 調査"
+title: "Atlassian の人気アプリ上位2,500件中551件がまだ Connect だった: サポート終了前の Marketplace 調査"
 emoji: "🧩"
 type: "idea"
 topics: ["atlassian", "forge", "jira", "confluence", "個人開発"]
@@ -26,7 +26,7 @@ Marketplace には公開 REST API(`/rest/2/addons`)があります。小さな P
 2. `ver.py`: **インストール数上位2,500件**について最新のクラウド版を読み、Connect(`deployment.connect`)か Forge(`cloud.appId`)かを判定
 3. `retry.py`: レート制限対策。並列24リクエスト程度で 429 が返り始めるので、バックオフして再試行
 
-結果、2026-10-09 時点で **上位2,500件のうち551件がまだ Connect** でした。
+結果、2026-10-09 時点で **上位2,500件中551件がまだ Connect** でした。
 
 ## 551件の内訳
 
