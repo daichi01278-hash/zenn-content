@@ -482,3 +482,4 @@ Step 2 の PR は、ルーターを作ったのに `main.py` に登録してい�
 3. `farol calibrate` で過去の履歴と照らし合わせ、スコアの閾値が自分のチームに合っているか確かめる
 
 AI が書いたコードの「中身」を機械的に締めるなら、[ai-deslop](https://github.com/maharshi365/deslop) のような lint、「影響範囲」を人間に見せるなら farol、という使い分けになります。
+
